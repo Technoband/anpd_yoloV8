@@ -1,4 +1,4 @@
-# Automatic Number Plate Recognition (ANPR) System
+# Automatic Number Plate Detection (ANPD) System
 
 ## Table of Contents
 - [Introduction](#introduction)
